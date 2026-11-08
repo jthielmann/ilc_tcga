@@ -1,0 +1,10 @@
+# model weights and UNI2 features: licence forbids redistribution; re-created by download_model.py / download_uni2.py
+models/*
+!models/.gitkeep
+data/uni2/
+# external annotations (BEETLE, Thennavan 2021): re-created by fetch_external.py
+data/external/
+
+__pycache__/
+.idea/
+.DS_Store
